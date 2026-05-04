@@ -20,7 +20,7 @@ core/
 └── wren-mdl/         MDL JSON schema definition
 
 docs/core/            Module documentation
-examples/             Example projects (TPCH on DuckDB, etc.)
+examples/             Example projects (placeholder — to be populated)
 skills/               CLI-based agent skills (wren-generate-mdl, wren-usage, wren-dlt-connector, wren-onboarding)
 scripts/              Repo helper scripts
 ```
